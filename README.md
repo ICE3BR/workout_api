@@ -54,7 +54,7 @@ make run
 ```
 e acesse: http://127.0.0.1:8000/docs
 
-# Desafio Final
+<!--# Desafio Final
     - adicionar query parameters nos endpoints
         - atleta
             - nome
@@ -69,7 +69,7 @@ e acesse: http://127.0.0.1:8000/docs
         - sqlalchemy.exc.IntegrityError e devolver a seguinte mensagem: “Já existe um atleta cadastrado com o cpf: x”
         - status_code: 303
     - Adicionar paginação utilizando a lib: fastapi-pagination
-        - limit e offset
+        - limit e offset-->
 # Referências
 
 FastAPI: https://fastapi.tiangolo.com/
@@ -81,3 +81,4 @@ SQLAlchemy: https://docs.sqlalchemy.org/en/20/
 Alembic: https://alembic.sqlalchemy.org/en/latest/
 
 Fastapi-pagination: https://uriyyo-fastapi-pagination.netlify.app/
+<!-- Comentários -->
